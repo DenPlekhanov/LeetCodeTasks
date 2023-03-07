@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task344;
+package org.example.leetcodetasks.task344_easy;
 
 public class Solution344 {
     public void reverseString(char[] s) {

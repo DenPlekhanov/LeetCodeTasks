@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task1;
+package org.example.leetcodetasks.task1_easy;
 
 class Solution1 {
     public int[] twoSum(int[] nums, int target) {

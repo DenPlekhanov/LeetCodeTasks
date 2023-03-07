@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task189;
+package org.example.leetcodetasks.task189_medium;
 
 public class Solution189 {
     public void rotate(int[] nums, int k) {

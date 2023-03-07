@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task7;
+package org.example.leetcodetasks.task7_medium;
 
 public class Solution7 {
     public int reverse(int x) {

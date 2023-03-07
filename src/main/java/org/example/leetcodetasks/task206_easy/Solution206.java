@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task206;
+package org.example.leetcodetasks.task206_easy;
 
 /**
  * Definition for singly-linked list.

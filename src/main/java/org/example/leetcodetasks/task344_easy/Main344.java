@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task344;
+package org.example.leetcodetasks.task344_easy;
 
 public class Main344 {
     public static void main(String[] args) {

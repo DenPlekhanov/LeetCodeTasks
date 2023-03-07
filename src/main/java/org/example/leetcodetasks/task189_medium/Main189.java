@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task189;
+package org.example.leetcodetasks.task189_medium;
 
 import java.util.Arrays;
 

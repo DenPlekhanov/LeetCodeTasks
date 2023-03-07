@@ -1,4 +1,4 @@
-package org.example.leetcodetasks.task387;
+package org.example.leetcodetasks.task387_easy;
 
 
 public class Main387 {
