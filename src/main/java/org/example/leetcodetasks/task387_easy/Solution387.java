@@ -5,7 +5,6 @@ public class Solution387 {
         if (s.length() == 1) {
             return 0;
         }
-
         char[] array = s.toCharArray();
         int answer = -1;
 

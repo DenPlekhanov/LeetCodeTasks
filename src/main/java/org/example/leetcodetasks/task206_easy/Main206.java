@@ -7,7 +7,6 @@ public class Main206 {
         ListNode node3 = new ListNode(3, node4);
         ListNode node2 = new ListNode(2, node3);
         ListNode node1 = new ListNode(1, node2);
-
         LinkedListPrinter.printAllChain(node1);
 
         Solution206 solution206 = new Solution206();

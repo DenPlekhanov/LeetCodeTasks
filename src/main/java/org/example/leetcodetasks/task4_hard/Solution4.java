@@ -12,6 +12,7 @@ public class Solution4 {
                 .limit(1L + ((length + 1) % 2))
                 .mapToDouble(s -> s)
                 .sum();
+
         return answer / (1 + ((length + 1) % 2));
     }
 }

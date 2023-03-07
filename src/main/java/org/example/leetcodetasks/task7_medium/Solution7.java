@@ -25,6 +25,7 @@ public class Solution7 {
         if (answer <= -2147483648 || answer >= 2147483647) {
             return 0;
         }
+
         return (int) answer;
     }
 }

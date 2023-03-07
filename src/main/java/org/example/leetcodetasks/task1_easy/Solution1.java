@@ -5,7 +5,6 @@ class Solution1 {
         int number1;
         int number2;
         int[] answer = new int[2];
-
         for (number1 = 0; number1 < nums.length; number1++) {
             for (number2 = number1 + 1; number2 < nums.length; number2++) {
                 if (nums[number1] + nums[number2] == target) {
